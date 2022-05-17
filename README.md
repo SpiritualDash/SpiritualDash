@@ -14,6 +14,16 @@ a lot of subscribers.
 
 It was created on April 5, 2022, and is currently not released.
 
+---
+
+I am planning on working on...
+
+### Codecks API Wrapper
+
+Trello is pretty much the norm for Roblox developers to organize their work. I plan on making this wrapper so that
+anybody can connect Codecks and Roblox together, like you could with Trello and Roblox. 
+
+This will most likely come when Conjoined Creators is in the beta stages.
 
 <!---
 SpiritualDash/SpiritualDash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
