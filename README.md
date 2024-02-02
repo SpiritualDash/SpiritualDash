@@ -1,8 +1,8 @@
 # Introduction
 
 Hi, I'm SpiritualSonicdash, but you can call me Spirit, Spiritual, SpiritualDash, or SpiritualsFate!
-I am actively learning Python as of now, but I do occasionally work on projects that I make on
-Roblox!
+
+Rust & Luau
 
 
 <!---
