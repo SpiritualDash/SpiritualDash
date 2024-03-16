@@ -3,6 +3,7 @@
 Hi, I'm SpiritualSonicdash, but you can call me Spirit, Spiritual, SpiritualDash, or SpiritualsFate!
 
 Would like to learn Rust
+
 Primarily Luau
 
 <!---
